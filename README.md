@@ -53,7 +53,7 @@ Users should be able to:
 - Expo
 - Socket.IO
 - Integration of Google Maps API
-- Integreation of OpenWratherMap API
+- Integreation of OpenWreatherMap API
 - IOS and Android adaptation
 
 ### Continued development
