@@ -68,9 +68,13 @@ In the future we would like to add features as:
 ## Authors
 
 Jordan Avitan - @Ourcodingadventure
+
 Magdalena Ben Bassat Luszczynska - @mag-d-alen
+
 Ezra Rubio - @ezraRubio
+
 Jared River - @jaredrivers
+
 Anya Joy - @AnyaJoy
 
 ## Acknowledgments
